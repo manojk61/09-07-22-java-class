@@ -1,0 +1,2 @@
+Java class 
+creates a get hub
